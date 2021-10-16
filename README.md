@@ -2,7 +2,7 @@
 
 <h2>🌱 I'm a programming student and I'm looking for constant development 🌱</h2>
  
-<h3>📚 Atualmente, estou aprendendo as seguintes linguagens:</h3>
+<h3>📚 Currently, i am learning the following languages:</h3>
  
 <h3>
 	<ul>
