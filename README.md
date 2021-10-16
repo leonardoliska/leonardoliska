@@ -1,12 +1,15 @@
-<h1>Hi, my name is Leonardo.<h1/>
+<h1>🧑‍💻 Hi, my name is Leonardo, i live in Brazil 🇧🇷.<h1/>
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🌱 I'm a programming student and I'm looking for constant development 🌱</h2>
+ 
+<h3>📚 Atualmente, estou aprendendo as seguintes linguagens:</h3>
+ 
+<h3>
+	<ul>
+		<b>
+			<li>HTML 🔖</li>
+			<li>CSS ✨</li>
+			<li>JavaScript 💡</li>
+		</b>
+	</ul>
+</h3>
