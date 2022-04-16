@@ -9,11 +9,7 @@
 
 ### How to Reach Me
 
-<a href="https://www.linkedin.com/in/leonardoliska/">
-
-![](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin)
-
-</a>
+[![](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardoliska/)
 	
 ### Technologies
 
@@ -34,3 +30,8 @@
 ![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoliska&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leonardo Liska's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoliska&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
