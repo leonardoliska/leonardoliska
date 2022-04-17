@@ -1,5 +1,5 @@
 
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 200" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -69,7 +69,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Hi 👋, Leonardo here!</h1>
+				<h1>Hi 👋, i'm Leonardo!</h1>
 				<p>Passionate Developer</p>
 			</div>
 		</div>
