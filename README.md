@@ -18,7 +18,7 @@
 
 #### Programming Languages and More
 
-<!-- https://github.com/iuricode/README-template/blob/main/badges/badges.md -->
+<!-- More badges at: https://github.com/iuricode/README-template/blob/main/badges/badges.md -->
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -34,6 +34,7 @@
 
 ![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
