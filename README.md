@@ -4,11 +4,10 @@
 	
 </span>
 
-### 👨 About Me
+### About Me
 
-- 🇧🇷 My name is Leonardo, i live in Brazil. 
-- 📖 I study full-stack web development at [Kenzie Academy Brasil](https://www.linkedin.com/school/kenzie-brasil).
-- 🌱 Currently i'm focused on learning back-end development.
+- 🇧🇷 My name is Leonardo, i am a Full Stack Web Developer from Brazil. 
+- 🌱 Currently i'm learning back-end development at [Kenzie Academy Brasil](https://www.linkedin.com/school/kenzie-brasil).
 
 ### How to Reach Me
 
