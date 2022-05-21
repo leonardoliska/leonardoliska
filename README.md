@@ -9,6 +9,13 @@
 - 🇧🇷 My name is Leonardo, i am a Full Stack Web Developer from Brazil. 
 - 🌱 Currently i'm learning back-end development at [Kenzie Academy Brasil](https://www.linkedin.com/school/kenzie-brasil).
 
+### My Portfolio
+
+- [Kenzie Hub (Management hub made with React)](https://github.com/leonardoliska/Kenzie-Hub)
+- [Hanoi Tower (Fun Game made with JS)](https://github.com/leonardoliska/Torre-de-Hanoi)
+- [Kenzie Food (My second E-Commerce made with JS)](https://github.com/leonardoliska/Kenzie-Food)
+- [E-Commerce (My first E-Commerce made with JS)](https://github.com/leonardoliska/E-Commerce)
+
 ### How to Reach Me
 
 [![](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardoliska/)
