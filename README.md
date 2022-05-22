@@ -11,6 +11,8 @@
 
 ### My Portfolio
 
+- [One Piece Prison - Redux (Capture pirates or set them free)](https://github.com/leonardoliska/One-Piece-Prison-Redux)
+- [One Piece Prison - Context API (Capture pirates or set them free)](https://github.com/leonardoliska/One-Piece-Prison-Context-API)
 - [Kenzie Hub (Management hub made with React)](https://github.com/leonardoliska/Kenzie-Hub)
 - [Hanoi Tower (Fun Game made with JS)](https://github.com/leonardoliska/Torre-de-Hanoi)
 - [Kenzie Food (My second E-Commerce made with JS)](https://github.com/leonardoliska/Kenzie-Food)
