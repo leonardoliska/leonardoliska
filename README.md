@@ -1,6 +1,4 @@
 <span align="center">
-
-![](./header.svg)
 	
 </span>
 
