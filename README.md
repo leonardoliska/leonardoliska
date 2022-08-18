@@ -7,9 +7,8 @@
 ### About Me
 
 - 🇧🇷 My name is Leonardo, i am a Full Stack Web Developer from Brazil. 
-- 🌱 Currently i'm learning back-end development at [Kenzie Academy Brasil](https://www.linkedin.com/school/kenzie-brasil).
 
-### My Portfolio
+### Some Projects i Made with ❤
 
 - [One Piece Prison - Redux (Capture pirates or set them free)](https://github.com/leonardoliska/One-Piece-Prison-Redux)
 - [One Piece Prison - Context API (Capture pirates or set them free)](https://github.com/leonardoliska/One-Piece-Prison-Context-API)
@@ -17,6 +16,7 @@
 - [Hanoi Tower (Fun Game made with JS)](https://github.com/leonardoliska/Torre-de-Hanoi)
 - [Kenzie Food (My second E-Commerce made with JS)](https://github.com/leonardoliska/Kenzie-Food)
 - [E-Commerce (My first E-Commerce made with JS)](https://github.com/leonardoliska/E-Commerce)
+- [Management Restaurant API](https://github.com/cayo-rodrigues/yoca)
 
 ### How to Reach Me
 
