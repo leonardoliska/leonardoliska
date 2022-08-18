@@ -6,10 +6,11 @@
 
 ### About Me
 
-- 🇧🇷 My name is Leonardo, i am a Full Stack Web Developer from Brazil. 
+- 🇧🇷 My name is Leonardo, i am a Full Stack Web Developer from Brazil.
 
 ### Some Projects i Made with ❤
 
+- [**Portfolio**](https://leonardoliska.vercel.app/)
 - [One Piece Prison - Redux (Capture pirates or set them free)](https://github.com/leonardoliska/One-Piece-Prison-Redux)
 - [One Piece Prison - Context API (Capture pirates or set them free)](https://github.com/leonardoliska/One-Piece-Prison-Context-API)
 - [Kenzie Hub (Management hub made with React)](https://github.com/leonardoliska/Kenzie-Hub)
