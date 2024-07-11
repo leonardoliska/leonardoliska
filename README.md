@@ -8,24 +8,11 @@
 
 - 🇧🇷 My name is Leonardo, i am a Full Stack Web Developer from Brazil.
 
-### Some Projects i Made with ❤
-
-- [**Portfolio**](https://leonardoliska.vercel.app/)
-- [One Piece Prison - Redux (Capture pirates or set them free)](https://github.com/leonardoliska/One-Piece-Prison-Redux)
-- [One Piece Prison - Context API (Capture pirates or set them free)](https://github.com/leonardoliska/One-Piece-Prison-Context-API)
-- [Kenzie Hub (Management hub made with React)](https://github.com/leonardoliska/Kenzie-Hub)
-- [Hanoi Tower (Fun Game made with JS)](https://github.com/leonardoliska/Torre-de-Hanoi)
-- [Kenzie Food (My second E-Commerce made with JS)](https://github.com/leonardoliska/Kenzie-Food)
-- [E-Commerce (My first E-Commerce made with JS)](https://github.com/leonardoliska/E-Commerce)
-- [Management Restaurant API](https://github.com/cayo-rodrigues/yoca)
-
 ### How to Reach Me
 
 [![](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardoliska/)
 	
-### Technologies
-
-#### Programming Languages and More
+### Tech Stack
 
 <!-- More badges at: https://github.com/iuricode/README-template/blob/main/badges/badges.md -->
 
@@ -38,9 +25,6 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Other Technologies
-
 ![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
